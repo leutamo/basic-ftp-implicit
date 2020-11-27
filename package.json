@@ -21,7 +21,7 @@
     "type": "git",
     "url": "https://github.com/leutamo/basic-ftp-implicit"
   },
-  "author": "Patrick Juchli <patrickjuchli@gmail.com>",
+  "author": "Giancarlos Araya",
   "license": "MIT",
   "keywords": [
     "ftp",
